@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sqliteapplication</string>
+    <string name="enter_the_details_to_login">Enter the details to login</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="email_id">Email ID</string>
+    <string name="add_to_db">Add to DB</string>
+    <string name="view_the_data">View the data</string>
+</resources>
